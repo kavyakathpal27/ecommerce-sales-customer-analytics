@@ -1,0 +1,501 @@
+seller_id,seller_zip_code_prefix,seller_city,seller_state
+seller_00000,81020,joinville,SC
+seller_00001,73933,rio de janeiro,RJ
+seller_00002,56272,brasilia,DF
+seller_00003,88752,porto alegre,RS
+seller_00004,13698,campinas,SP
+seller_00005,92183,sao luis,MA
+seller_00006,85171,londrina,PR
+seller_00007,50859,florianopolis,SC
+seller_00008,73605,sorocaba,SP
+seller_00009,52506,niteroi,RJ
+seller_00010,27607,sorocaba,SP
+seller_00011,80186,belem,PA
+seller_00012,25346,contagem,MG
+seller_00013,32130,salvador,BA
+seller_00014,52409,rio de janeiro,RJ
+seller_00015,83900,santos,SP
+seller_00016,39008,belo horizonte,MG
+seller_00017,49919,sao paulo,SP
+seller_00018,5124,feira de santana,BA
+seller_00019,12469,uberlandia,MG
+seller_00020,6538,curitiba,PR
+seller_00021,8133,campinas,SP
+seller_00022,86982,sao luis,MA
+seller_00023,84356,recife,PE
+seller_00024,82365,florianopolis,SC
+seller_00025,6501,sorocaba,SP
+seller_00026,8686,duque de caxias,RJ
+seller_00027,28780,sao paulo,SP
+seller_00028,56963,sao paulo,SP
+seller_00029,34078,caxias do sul,RS
+seller_00030,49267,curitiba,PR
+seller_00031,18126,campo grande,MS
+seller_00032,73346,campinas,SP
+seller_00033,32075,sao paulo,SP
+seller_00034,7587,rio de janeiro,RJ
+seller_00035,74525,sorocaba,SP
+seller_00036,90375,sao paulo,SP
+seller_00037,2453,rio de janeiro,RJ
+seller_00038,44230,sorocaba,SP
+seller_00039,82889,porto alegre,RS
+seller_00040,70909,duque de caxias,RJ
+seller_00041,85797,salvador,BA
+seller_00042,42105,porto alegre,RS
+seller_00043,37853,sao paulo,SP
+seller_00044,71207,feira de santana,BA
+seller_00045,16207,joinville,SC
+seller_00046,24702,campinas,SP
+seller_00047,60482,sao paulo,SP
+seller_00048,67176,porto alegre,RS
+seller_00049,12847,santos,SP
+seller_00050,51322,sao paulo,SP
+seller_00051,37126,santos,SP
+seller_00052,50672,joinville,SC
+seller_00053,95883,caxias do sul,RS
+seller_00054,8584,porto alegre,RS
+seller_00055,99549,florianopolis,SC
+seller_00056,45507,rio de janeiro,RJ
+seller_00057,77437,contagem,MG
+seller_00058,43022,santos,SP
+seller_00059,31784,santos,SP
+seller_00060,77288,porto alegre,RS
+seller_00061,69078,rio de janeiro,RJ
+seller_00062,15261,contagem,MG
+seller_00063,70834,londrina,PR
+seller_00064,75553,contagem,MG
+seller_00065,39395,duque de caxias,RJ
+seller_00066,92638,belo horizonte,MG
+seller_00067,64447,campinas,SP
+seller_00068,34028,sao paulo,SP
+seller_00069,2062,duque de caxias,RJ
+seller_00070,67820,santos,SP
+seller_00071,21696,campinas,SP
+seller_00072,75895,brasilia,DF
+seller_00073,52983,sorocaba,SP
+seller_00074,47205,santos,SP
+seller_00075,17211,sorocaba,SP
+seller_00076,71438,sorocaba,SP
+seller_00077,17424,belo horizonte,MG
+seller_00078,42357,uberlandia,MG
+seller_00079,83793,joinville,SC
+seller_00080,92115,contagem,MG
+seller_00081,98923,sao paulo,SP
+seller_00082,95842,salvador,BA
+seller_00083,56040,santos,SP
+seller_00084,20847,sorocaba,SP
+seller_00085,84067,sao paulo,SP
+seller_00086,80360,londrina,PR
+seller_00087,99040,rio de janeiro,RJ
+seller_00088,65443,sao paulo,SP
+seller_00089,15017,niteroi,RJ
+seller_00090,50786,campinas,SP
+seller_00091,45375,caxias do sul,RS
+seller_00092,84450,rio de janeiro,RJ
+seller_00093,39864,sorocaba,SP
+seller_00094,33530,sao paulo,SP
+seller_00095,8924,contagem,MG
+seller_00096,83709,sao paulo,SP
+seller_00097,75776,santos,SP
+seller_00098,5081,campinas,SP
+seller_00099,43943,campo grande,MS
+seller_00100,48491,fortaleza,CE
+seller_00101,47462,porto alegre,RS
+seller_00102,91973,sao paulo,SP
+seller_00103,15916,sao luis,MA
+seller_00104,31327,joinville,SC
+seller_00105,18911,porto alegre,RS
+seller_00106,25164,niteroi,RJ
+seller_00107,90802,santos,SP
+seller_00108,94130,sorocaba,SP
+seller_00109,5420,,CE
+seller_00110,63576,duque de caxias,RJ
+seller_00111,24052,campinas,SP
+seller_00112,20063,santos,SP
+seller_00113,29913,contagem,MG
+seller_00114,20244,campinas,SP
+seller_00115,49529,brasilia,DF
+seller_00116,99564,curitiba,PR
+seller_00117,59057,caxias do sul,RS
+seller_00118,72600,rio de janeiro,RJ
+seller_00119,49835,uberlandia,MG
+seller_00120,2376,belo horizonte,MG
+seller_00121,9327,belo horizonte,MG
+seller_00122,27618,sorocaba,SP
+seller_00123,25122,sao paulo,SP
+seller_00124,84216,santos,SP
+seller_00125,84514,duque de caxias,RJ
+seller_00126,85557,sao paulo,SP
+seller_00127,64120,sao paulo,SP
+seller_00128,56060,sorocaba,SP
+seller_00129,65265,uberlandia,MG
+seller_00130,41273,sao paulo,SP
+seller_00131,67349,belem,PA
+seller_00132,79649,contagem,MG
+seller_00133,76526,campinas,SP
+seller_00134,61768,belo horizonte,MG
+seller_00135,6752,sorocaba,SP
+seller_00136,72769,cuiaba,MT
+seller_00137,37293,rio de janeiro,RJ
+seller_00138,74622,joinville,SC
+seller_00139,54412,sorocaba,SP
+seller_00140,88236,niteroi,RJ
+seller_00141,34506,niteroi,RJ
+seller_00142,93207,vitoria,ES
+seller_00143,84602,uberlandia,MG
+seller_00144,33779,rio de janeiro,RJ
+seller_00145,48774,santos,SP
+seller_00146,53602,sorocaba,SP
+seller_00147,77093,rio de janeiro,RJ
+seller_00148,69225,duque de caxias,RJ
+seller_00149,85348,campinas,SP
+seller_00150,37616,feira de santana,BA
+seller_00151,50973,recife,PE
+seller_00152,43655,sao paulo,SP
+seller_00153,91044,,MG
+seller_00154,31192,sao paulo,SP
+seller_00155,59124,porto alegre,RS
+seller_00156,12896,santos,SP
+seller_00157,85176,belo horizonte,MG
+seller_00158,39037,curitiba,PR
+seller_00159,34718,londrina,PR
+seller_00160,58708,sao paulo,SP
+seller_00161,50382,fortaleza,CE
+seller_00162,84948,campinas,SP
+seller_00163,53609,campinas,SP
+seller_00164,52181,uberlandia,MG
+seller_00165,11392,sorocaba,SP
+seller_00166,3171,feira de santana,BA
+seller_00167,40456,salvador,BA
+seller_00168,99821,sao paulo,SP
+seller_00169,91815,cuiaba,MT
+seller_00170,63268,sao paulo,SP
+seller_00171,63451,niteroi,RJ
+seller_00172,39758,sao paulo,SP
+seller_00173,18572,vitoria,ES
+seller_00174,1846,sao paulo,SP
+seller_00175,34546,sorocaba,SP
+seller_00176,32330,duque de caxias,RJ
+seller_00177,19968,maceio,AL
+seller_00178,26657,recife,PE
+seller_00179,3457,londrina,PR
+seller_00180,61187,recife,PE
+seller_00181,92817,recife,PE
+seller_00182,69388,rio de janeiro,RJ
+seller_00183,45372,santos,SP
+seller_00184,42606,joinville,SC
+seller_00185,31445,belo horizonte,MG
+seller_00186,15098,santos,SP
+seller_00187,60248,santos,SP
+seller_00188,57085,curitiba,PR
+seller_00189,1724,sorocaba,SP
+seller_00190,42136,vitoria,ES
+seller_00191,28523,santos,SP
+seller_00192,17857,santos,SP
+seller_00193,70599,feira de santana,BA
+seller_00194,53056,,SP
+seller_00195,63742,santos,SP
+seller_00196,71633,belo horizonte,MG
+seller_00197,98197,goiania,GO
+seller_00198,80472,sorocaba,SP
+seller_00199,62414,santos,SP
+seller_00200,88022,joinville,SC
+seller_00201,48272,sao luis,MA
+seller_00202,98490,rio de janeiro,RJ
+seller_00203,76381,campinas,SP
+seller_00204,65436,sorocaba,SP
+seller_00205,90428,santos,SP
+seller_00206,51992,sorocaba,SP
+seller_00207,72348,porto alegre,RS
+seller_00208,29188,sao paulo,SP
+seller_00209,96356,duque de caxias,RJ
+seller_00210,62712,porto alegre,RS
+seller_00211,78417,uberlandia,MG
+seller_00212,46612,campinas,SP
+seller_00213,86812,florianopolis,SC
+seller_00214,8343,caxias do sul,RS
+seller_00215,12296,curitiba,PR
+seller_00216,51204,sorocaba,SP
+seller_00217,73508,sorocaba,SP
+seller_00218,81111,belem,PA
+seller_00219,44568,santos,SP
+seller_00220,65316,campinas,SP
+seller_00221,55756,rio de janeiro,RJ
+seller_00222,96189,contagem,MG
+seller_00223,65755,cuiaba,MT
+seller_00224,42267,campinas,SP
+seller_00225,97010,belem,PA
+seller_00226,11617,sao paulo,SP
+seller_00227,98472,uberlandia,MG
+seller_00228,16247,contagem,MG
+seller_00229,29534,campinas,SP
+seller_00230,82324,sao paulo,SP
+seller_00231,73640,santos,SP
+seller_00232,97064,campo grande,MS
+seller_00233,75247,belo horizonte,MG
+seller_00234,64063,belem,PA
+seller_00235,35302,joinville,SC
+seller_00236,1466,duque de caxias,RJ
+seller_00237,13262,joinville,SC
+seller_00238,30479,sorocaba,SP
+seller_00239,5053,sao paulo,SP
+seller_00240,51309,salvador,BA
+seller_00241,77956,florianopolis,SC
+seller_00242,96361,campinas,SP
+seller_00243,49479,duque de caxias,RJ
+seller_00244,87624,contagem,MG
+seller_00245,98567,goiania,GO
+seller_00246,86122,uberlandia,MG
+seller_00247,47031,sorocaba,SP
+seller_00248,33200,santos,SP
+seller_00249,97812,niteroi,RJ
+seller_00250,24949,uberlandia,MG
+seller_00251,41745,goiania,GO
+seller_00252,8328,niteroi,RJ
+seller_00253,79573,sao paulo,SP
+seller_00254,65333,santos,SP
+seller_00255,9397,londrina,PR
+seller_00256,22970,feira de santana,BA
+seller_00257,55990,santos,SP
+seller_00258,54500,sorocaba,SP
+seller_00259,80403,contagem,MG
+seller_00260,27343,santos,SP
+seller_00261,92544,salvador,BA
+seller_00262,45002,sao paulo,SP
+seller_00263,82434,sorocaba,SP
+seller_00264,24599,belem,PA
+seller_00265,4660,sorocaba,SP
+seller_00266,6450,santos,SP
+seller_00267,37897,sorocaba,SP
+seller_00268,95361,sorocaba,SP
+seller_00269,5821,sorocaba,SP
+seller_00270,37528,santos,SP
+seller_00271,11818,,SP
+seller_00272,93223,sao paulo,SP
+seller_00273,67854,belo horizonte,MG
+seller_00274,76505,porto alegre,RS
+seller_00275,71611,santos,SP
+seller_00276,66044,campinas,SP
+seller_00277,77597,rio de janeiro,RJ
+seller_00278,1804,goiania,GO
+seller_00279,86679,brasilia,DF
+seller_00280,74245,sao paulo,SP
+seller_00281,74202,sorocaba,SP
+seller_00282,39949,sorocaba,SP
+seller_00283,80285,campinas,SP
+seller_00284,38799,contagem,MG
+seller_00285,5847,santos,SP
+seller_00286,90873,sorocaba,SP
+seller_00287,24218,sorocaba,SP
+seller_00288,11088,niteroi,RJ
+seller_00289,62567,campinas,SP
+seller_00290,24131,feira de santana,BA
+seller_00291,85953,campinas,SP
+seller_00292,44930,belem,PA
+seller_00293,1445,campinas,SP
+seller_00294,95219,brasilia,DF
+seller_00295,51947,fortaleza,CE
+seller_00296,27034,natal,RN
+seller_00297,68050,joinville,SC
+seller_00298,53529,joinville,SC
+seller_00299,3931,uberlandia,MG
+seller_00300,76204,florianopolis,SC
+seller_00301,40733,campinas,SP
+seller_00302,70281,rio de janeiro,RJ
+seller_00303,89666,niteroi,RJ
+seller_00304,61450,brasilia,DF
+seller_00305,67488,niteroi,RJ
+seller_00306,26210,sorocaba,SP
+seller_00307,24527,uberlandia,MG
+seller_00308,42084,campinas,SP
+seller_00309,85424,sao paulo,SP
+seller_00310,52894,rio de janeiro,RJ
+seller_00311,35454,campinas,SP
+seller_00312,78180,campinas,SP
+seller_00313,85480,,SP
+seller_00314,90349,campinas,SP
+seller_00315,30595,sorocaba,SP
+seller_00316,71253,sao paulo,SP
+seller_00317,59441,porto alegre,RS
+seller_00318,45447,sao paulo,SP
+seller_00319,40296,cuiaba,MT
+seller_00320,12340,fortaleza,CE
+seller_00321,28207,rio de janeiro,RJ
+seller_00322,55416,santos,SP
+seller_00323,88768,rio de janeiro,RJ
+seller_00324,86766,brasilia,DF
+seller_00325,19571,uberlandia,MG
+seller_00326,68252,florianopolis,SC
+seller_00327,9396,duque de caxias,RJ
+seller_00328,67825,contagem,MG
+seller_00329,34850,sao paulo,SP
+seller_00330,45534,curitiba,PR
+seller_00331,72045,sao paulo,SP
+seller_00332,43063,porto alegre,RS
+seller_00333,80934,brasilia,DF
+seller_00334,53823,sorocaba,SP
+seller_00335,99874,uberlandia,MG
+seller_00336,64185,sorocaba,SP
+seller_00337,30339,curitiba,PR
+seller_00338,77752,campinas,SP
+seller_00339,41385,vitoria,ES
+seller_00340,53882,campinas,SP
+seller_00341,14545,campo grande,MS
+seller_00342,12814,florianopolis,SC
+seller_00343,57911,contagem,MG
+seller_00344,19482,florianopolis,SC
+seller_00345,99759,florianopolis,SC
+seller_00346,85710,vitoria,ES
+seller_00347,70386,santos,SP
+seller_00348,73734,belo horizonte,MG
+seller_00349,59925,campinas,SP
+seller_00350,6968,uberlandia,MG
+seller_00351,39844,campinas,SP
+seller_00352,50083,belo horizonte,MG
+seller_00353,91613,belo horizonte,MG
+seller_00354,22729,rio de janeiro,RJ
+seller_00355,50194,niteroi,RJ
+seller_00356,35062,curitiba,PR
+seller_00357,14302,joinville,SC
+seller_00358,11198,rio de janeiro,RJ
+seller_00359,37172,uberlandia,MG
+seller_00360,9159,belem,PA
+seller_00361,7649,santos,SP
+seller_00362,35735,campinas,SP
+seller_00363,20995,sorocaba,SP
+seller_00364,55925,belo horizonte,MG
+seller_00365,2749,sao paulo,SP
+seller_00366,30879,florianopolis,SC
+seller_00367,45874,porto alegre,RS
+seller_00368,96350,campinas,SP
+seller_00369,63818,recife,PE
+seller_00370,88190,curitiba,PR
+seller_00371,34985,sorocaba,SP
+seller_00372,45520,campinas,SP
+seller_00373,42617,sorocaba,SP
+seller_00374,88851,sorocaba,SP
+seller_00375,95960,sorocaba,SP
+seller_00376,96270,vitoria,ES
+seller_00377,75443,rio de janeiro,RJ
+seller_00378,50807,sorocaba,SP
+seller_00379,54544,,PR
+seller_00380,98069,duque de caxias,RJ
+seller_00381,29169,vitoria,ES
+seller_00382,35323,florianopolis,SC
+seller_00383,89801,duque de caxias,RJ
+seller_00384,39245,santos,SP
+seller_00385,24274,,PB
+seller_00386,56485,porto alegre,RS
+seller_00387,33208,cuiaba,MT
+seller_00388,89195,campinas,SP
+seller_00389,90996,brasilia,DF
+seller_00390,31294,belo horizonte,MG
+seller_00391,53424,sorocaba,SP
+seller_00392,98414,belo horizonte,MG
+seller_00393,74488,porto alegre,RS
+seller_00394,22346,santos,SP
+seller_00395,59483,niteroi,RJ
+seller_00396,62368,salvador,BA
+seller_00397,65689,sorocaba,SP
+seller_00398,3476,duque de caxias,RJ
+seller_00399,30638,duque de caxias,RJ
+seller_00400,85605,santos,SP
+seller_00401,24895,belem,PA
+seller_00402,30669,florianopolis,SC
+seller_00403,32926,santos,SP
+seller_00404,18561,aracaju,SE
+seller_00405,16388,goiania,GO
+seller_00406,35354,santos,SP
+seller_00407,87556,salvador,BA
+seller_00408,1151,sao paulo,SP
+seller_00409,29041,aracaju,SE
+seller_00410,7002,porto alegre,RS
+seller_00411,56586,uberlandia,MG
+seller_00412,25809,sao paulo,SP
+seller_00413,79404,recife,PE
+seller_00414,58916,sao paulo,SP
+seller_00415,78597,sorocaba,SP
+seller_00416,63855,campinas,SP
+seller_00417,44399,joinville,SC
+seller_00418,86234,santos,SP
+seller_00419,48148,fortaleza,CE
+seller_00420,95042,contagem,MG
+seller_00421,99474,santos,SP
+seller_00422,59312,campinas,SP
+seller_00423,67784,sorocaba,SP
+seller_00424,26310,uberlandia,MG
+seller_00425,81648,joinville,SC
+seller_00426,67486,campinas,SP
+seller_00427,90351,brasilia,DF
+seller_00428,27433,sao paulo,SP
+seller_00429,78970,joinville,SC
+seller_00430,47556,belem,PA
+seller_00431,19332,florianopolis,SC
+seller_00432,17948,caxias do sul,RS
+seller_00433,56654,salvador,BA
+seller_00434,32625,sao paulo,SP
+seller_00435,11087,santos,SP
+seller_00436,43287,sorocaba,SP
+seller_00437,65638,niteroi,RJ
+seller_00438,32575,curitiba,PR
+seller_00439,95578,belo horizonte,MG
+seller_00440,78174,brasilia,DF
+seller_00441,51759,sorocaba,SP
+seller_00442,93529,londrina,PR
+seller_00443,43863,sao paulo,SP
+seller_00444,14827,campinas,SP
+seller_00445,4548,porto alegre,RS
+seller_00446,93863,natal,RN
+seller_00447,96016,belo horizonte,MG
+seller_00448,74185,sorocaba,SP
+seller_00449,11197,uberlandia,MG
+seller_00450,30071,sao paulo,SP
+seller_00451,5066,goiania,GO
+seller_00452,6073,caxias do sul,RS
+seller_00453,25360,campinas,SP
+seller_00454,57641,sao paulo,SP
+seller_00455,7487,campinas,SP
+seller_00456,98474,natal,RN
+seller_00457,46056,rio de janeiro,RJ
+seller_00458,27120,florianopolis,SC
+seller_00459,52092,contagem,MG
+seller_00460,79224,contagem,MG
+seller_00461,31944,sao paulo,SP
+seller_00462,5703,vitoria,ES
+seller_00463,6045,sorocaba,SP
+seller_00464,85345,uberlandia,MG
+seller_00465,12048,caxias do sul,RS
+seller_00466,63920,contagem,MG
+seller_00467,39065,vitoria,ES
+seller_00468,77973,campinas,SP
+seller_00469,6992,niteroi,RJ
+seller_00470,89880,santos,SP
+seller_00471,70120,duque de caxias,RJ
+seller_00472,45478,sao paulo,SP
+seller_00473,21494,campinas,SP
+seller_00474,97736,sao paulo,SP
+seller_00475,30904,campinas,SP
+seller_00476,49560,rio de janeiro,RJ
+seller_00477,40018,belo horizonte,MG
+seller_00478,23824,contagem,MG
+seller_00479,42243,sao paulo,SP
+seller_00480,15996,sorocaba,SP
+seller_00481,1164,sao paulo,SP
+seller_00482,29709,contagem,MG
+seller_00483,12094,campinas,SP
+seller_00484,42062,santos,SP
+seller_00485,86412,campinas,SP
+seller_00486,17094,niteroi,RJ
+seller_00487,1122,campinas,SP
+seller_00488,11998,uberlandia,MG
+seller_00489,51308,uberlandia,MG
+seller_00490,28208,caxias do sul,RS
+seller_00491,49460,contagem,MG
+seller_00492,3895,uberlandia,MG
+seller_00493,33975,campinas,SP
+seller_00494,41602,florianopolis,SC
+seller_00495,43700,niteroi,RJ
+seller_00496,55564,,RJ
+seller_00497,78276,belo horizonte,MG
+seller_00498,47255,sorocaba,SP
+seller_00499,84278,rio de janeiro,RJ
