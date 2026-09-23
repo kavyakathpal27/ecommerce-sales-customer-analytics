@@ -1,0 +1,565 @@
+{
+  "rfm_segmentation": {
+    "n_customers": 18620,
+    "total_revenue": 4092609.08,
+    "segments": [
+      {
+        "segment": "Champions",
+        "customers": 1957,
+        "total_revenue": 1373931.08,
+        "avg_monetary": 702.06,
+        "avg_frequency": 3.4,
+        "avg_recency_days": 76.26,
+        "pct_of_revenue": 33.57,
+        "pct_of_customers": 10.51
+      },
+      {
+        "segment": "Loyal Customers",
+        "customers": 3618,
+        "total_revenue": 1088087.94,
+        "avg_monetary": 300.74,
+        "avg_frequency": 1.99,
+        "avg_recency_days": 202.58,
+        "pct_of_revenue": 26.59,
+        "pct_of_customers": 19.43
+      },
+      {
+        "segment": "At Risk (was frequent)",
+        "customers": 3735,
+        "total_revenue": 769783.28,
+        "avg_monetary": 206.1,
+        "avg_frequency": 1.61,
+        "avg_recency_days": 587.94,
+        "pct_of_revenue": 18.81,
+        "pct_of_customers": 20.06
+      },
+      {
+        "segment": "Hibernating / Lost",
+        "customers": 5575,
+        "total_revenue": 516115.8,
+        "avg_monetary": 92.58,
+        "avg_frequency": 1.0,
+        "avg_recency_days": 639.55,
+        "pct_of_revenue": 12.61,
+        "pct_of_customers": 29.94
+      },
+      {
+        "segment": "Potential Loyalists",
+        "customers": 3735,
+        "total_revenue": 344690.98,
+        "avg_monetary": 92.29,
+        "avg_frequency": 1.0,
+        "avg_recency_days": 178.57,
+        "pct_of_revenue": 8.42,
+        "pct_of_customers": 20.06
+      }
+    ],
+    "top_segment_name": "Champions",
+    "top_segment_pct_of_revenue": 33.57,
+    "top_segment_pct_of_customers": 10.51
+  },
+  "revenue_concentration": {
+    "n_customers": 18620,
+    "total_revenue": 4092609.08,
+    "top_10pct_customers_revenue_share": 49.87,
+    "top_20pct_customers_revenue_share": 66.35,
+    "gini_coefficient": 0.6234,
+    "lorenz_curve": [
+      {
+        "cum_pct_customers": 0.0001,
+        "cum_pct_revenue": 0.0
+      },
+      {
+        "cum_pct_customers": 0.01,
+        "cum_pct_revenue": 0.0004
+      },
+      {
+        "cum_pct_customers": 0.02,
+        "cum_pct_revenue": 0.001
+      },
+      {
+        "cum_pct_customers": 0.03,
+        "cum_pct_revenue": 0.0018
+      },
+      {
+        "cum_pct_customers": 0.04,
+        "cum_pct_revenue": 0.0026
+      },
+      {
+        "cum_pct_customers": 0.05,
+        "cum_pct_revenue": 0.0035
+      },
+      {
+        "cum_pct_customers": 0.06,
+        "cum_pct_revenue": 0.0044
+      },
+      {
+        "cum_pct_customers": 0.07,
+        "cum_pct_revenue": 0.0053
+      },
+      {
+        "cum_pct_customers": 0.08,
+        "cum_pct_revenue": 0.0063
+      },
+      {
+        "cum_pct_customers": 0.09,
+        "cum_pct_revenue": 0.0074
+      },
+      {
+        "cum_pct_customers": 0.0999,
+        "cum_pct_revenue": 0.0085
+      },
+      {
+        "cum_pct_customers": 0.1099,
+        "cum_pct_revenue": 0.0097
+      },
+      {
+        "cum_pct_customers": 0.1199,
+        "cum_pct_revenue": 0.0109
+      },
+      {
+        "cum_pct_customers": 0.1299,
+        "cum_pct_revenue": 0.0122
+      },
+      {
+        "cum_pct_customers": 0.1399,
+        "cum_pct_revenue": 0.0135
+      },
+      {
+        "cum_pct_customers": 0.1499,
+        "cum_pct_revenue": 0.0149
+      },
+      {
+        "cum_pct_customers": 0.1599,
+        "cum_pct_revenue": 0.0163
+      },
+      {
+        "cum_pct_customers": 0.1699,
+        "cum_pct_revenue": 0.0179
+      },
+      {
+        "cum_pct_customers": 0.1799,
+        "cum_pct_revenue": 0.0194
+      },
+      {
+        "cum_pct_customers": 0.1898,
+        "cum_pct_revenue": 0.021
+      },
+      {
+        "cum_pct_customers": 0.1998,
+        "cum_pct_revenue": 0.0227
+      },
+      {
+        "cum_pct_customers": 0.2098,
+        "cum_pct_revenue": 0.0245
+      },
+      {
+        "cum_pct_customers": 0.2198,
+        "cum_pct_revenue": 0.0263
+      },
+      {
+        "cum_pct_customers": 0.2298,
+        "cum_pct_revenue": 0.0281
+      },
+      {
+        "cum_pct_customers": 0.2398,
+        "cum_pct_revenue": 0.03
+      },
+      {
+        "cum_pct_customers": 0.2498,
+        "cum_pct_revenue": 0.032
+      },
+      {
+        "cum_pct_customers": 0.2598,
+        "cum_pct_revenue": 0.0341
+      },
+      {
+        "cum_pct_customers": 0.2698,
+        "cum_pct_revenue": 0.0363
+      },
+      {
+        "cum_pct_customers": 0.2798,
+        "cum_pct_revenue": 0.0385
+      },
+      {
+        "cum_pct_customers": 0.2897,
+        "cum_pct_revenue": 0.0407
+      },
+      {
+        "cum_pct_customers": 0.2997,
+        "cum_pct_revenue": 0.0431
+      },
+      {
+        "cum_pct_customers": 0.3097,
+        "cum_pct_revenue": 0.0455
+      },
+      {
+        "cum_pct_customers": 0.3197,
+        "cum_pct_revenue": 0.048
+      },
+      {
+        "cum_pct_customers": 0.3297,
+        "cum_pct_revenue": 0.0506
+      },
+      {
+        "cum_pct_customers": 0.3397,
+        "cum_pct_revenue": 0.0533
+      },
+      {
+        "cum_pct_customers": 0.3497,
+        "cum_pct_revenue": 0.0561
+      },
+      {
+        "cum_pct_customers": 0.3597,
+        "cum_pct_revenue": 0.0589
+      },
+      {
+        "cum_pct_customers": 0.3697,
+        "cum_pct_revenue": 0.0618
+      },
+      {
+        "cum_pct_customers": 0.3796,
+        "cum_pct_revenue": 0.0648
+      },
+      {
+        "cum_pct_customers": 0.3896,
+        "cum_pct_revenue": 0.0679
+      },
+      {
+        "cum_pct_customers": 0.3996,
+        "cum_pct_revenue": 0.0711
+      },
+      {
+        "cum_pct_customers": 0.4096,
+        "cum_pct_revenue": 0.0744
+      },
+      {
+        "cum_pct_customers": 0.4196,
+        "cum_pct_revenue": 0.0778
+      },
+      {
+        "cum_pct_customers": 0.4296,
+        "cum_pct_revenue": 0.0813
+      },
+      {
+        "cum_pct_customers": 0.4396,
+        "cum_pct_revenue": 0.0849
+      },
+      {
+        "cum_pct_customers": 0.4496,
+        "cum_pct_revenue": 0.0886
+      },
+      {
+        "cum_pct_customers": 0.4596,
+        "cum_pct_revenue": 0.0925
+      },
+      {
+        "cum_pct_customers": 0.4695,
+        "cum_pct_revenue": 0.0964
+      },
+      {
+        "cum_pct_customers": 0.4795,
+        "cum_pct_revenue": 0.1005
+      },
+      {
+        "cum_pct_customers": 0.4895,
+        "cum_pct_revenue": 0.1047
+      },
+      {
+        "cum_pct_customers": 0.4995,
+        "cum_pct_revenue": 0.1091
+      },
+      {
+        "cum_pct_customers": 0.5095,
+        "cum_pct_revenue": 0.1135
+      },
+      {
+        "cum_pct_customers": 0.5195,
+        "cum_pct_revenue": 0.1181
+      },
+      {
+        "cum_pct_customers": 0.5295,
+        "cum_pct_revenue": 0.1229
+      },
+      {
+        "cum_pct_customers": 0.5395,
+        "cum_pct_revenue": 0.1278
+      },
+      {
+        "cum_pct_customers": 0.5495,
+        "cum_pct_revenue": 0.1328
+      },
+      {
+        "cum_pct_customers": 0.5595,
+        "cum_pct_revenue": 0.138
+      },
+      {
+        "cum_pct_customers": 0.5694,
+        "cum_pct_revenue": 0.1434
+      },
+      {
+        "cum_pct_customers": 0.5794,
+        "cum_pct_revenue": 0.1489
+      },
+      {
+        "cum_pct_customers": 0.5894,
+        "cum_pct_revenue": 0.1546
+      },
+      {
+        "cum_pct_customers": 0.5994,
+        "cum_pct_revenue": 0.1605
+      },
+      {
+        "cum_pct_customers": 0.6094,
+        "cum_pct_revenue": 0.1666
+      },
+      {
+        "cum_pct_customers": 0.6194,
+        "cum_pct_revenue": 0.1729
+      },
+      {
+        "cum_pct_customers": 0.6294,
+        "cum_pct_revenue": 0.1795
+      },
+      {
+        "cum_pct_customers": 0.6394,
+        "cum_pct_revenue": 0.1863
+      },
+      {
+        "cum_pct_customers": 0.6494,
+        "cum_pct_revenue": 0.1934
+      },
+      {
+        "cum_pct_customers": 0.6593,
+        "cum_pct_revenue": 0.2006
+      },
+      {
+        "cum_pct_customers": 0.6693,
+        "cum_pct_revenue": 0.2082
+      },
+      {
+        "cum_pct_customers": 0.6793,
+        "cum_pct_revenue": 0.2159
+      },
+      {
+        "cum_pct_customers": 0.6893,
+        "cum_pct_revenue": 0.224
+      },
+      {
+        "cum_pct_customers": 0.6993,
+        "cum_pct_revenue": 0.2324
+      },
+      {
+        "cum_pct_customers": 0.7093,
+        "cum_pct_revenue": 0.2411
+      },
+      {
+        "cum_pct_customers": 0.7193,
+        "cum_pct_revenue": 0.25
+      },
+      {
+        "cum_pct_customers": 0.7293,
+        "cum_pct_revenue": 0.2593
+      },
+      {
+        "cum_pct_customers": 0.7393,
+        "cum_pct_revenue": 0.269
+      },
+      {
+        "cum_pct_customers": 0.7492,
+        "cum_pct_revenue": 0.279
+      },
+      {
+        "cum_pct_customers": 0.7592,
+        "cum_pct_revenue": 0.2894
+      },
+      {
+        "cum_pct_customers": 0.7692,
+        "cum_pct_revenue": 0.3002
+      },
+      {
+        "cum_pct_customers": 0.7792,
+        "cum_pct_revenue": 0.3115
+      },
+      {
+        "cum_pct_customers": 0.7892,
+        "cum_pct_revenue": 0.3232
+      },
+      {
+        "cum_pct_customers": 0.7992,
+        "cum_pct_revenue": 0.3355
+      },
+      {
+        "cum_pct_customers": 0.8092,
+        "cum_pct_revenue": 0.3483
+      },
+      {
+        "cum_pct_customers": 0.8192,
+        "cum_pct_revenue": 0.3617
+      },
+      {
+        "cum_pct_customers": 0.8292,
+        "cum_pct_revenue": 0.3758
+      },
+      {
+        "cum_pct_customers": 0.8392,
+        "cum_pct_revenue": 0.3905
+      },
+      {
+        "cum_pct_customers": 0.8491,
+        "cum_pct_revenue": 0.4062
+      },
+      {
+        "cum_pct_customers": 0.8591,
+        "cum_pct_revenue": 0.4227
+      },
+      {
+        "cum_pct_customers": 0.8691,
+        "cum_pct_revenue": 0.4402
+      },
+      {
+        "cum_pct_customers": 0.8791,
+        "cum_pct_revenue": 0.4586
+      },
+      {
+        "cum_pct_customers": 0.8891,
+        "cum_pct_revenue": 0.4783
+      },
+      {
+        "cum_pct_customers": 0.8991,
+        "cum_pct_revenue": 0.4993
+      },
+      {
+        "cum_pct_customers": 0.9091,
+        "cum_pct_revenue": 0.522
+      },
+      {
+        "cum_pct_customers": 0.9191,
+        "cum_pct_revenue": 0.5465
+      },
+      {
+        "cum_pct_customers": 0.9291,
+        "cum_pct_revenue": 0.5732
+      },
+      {
+        "cum_pct_customers": 0.939,
+        "cum_pct_revenue": 0.6028
+      },
+      {
+        "cum_pct_customers": 0.949,
+        "cum_pct_revenue": 0.6354
+      },
+      {
+        "cum_pct_customers": 0.959,
+        "cum_pct_revenue": 0.6729
+      },
+      {
+        "cum_pct_customers": 0.969,
+        "cum_pct_revenue": 0.7171
+      },
+      {
+        "cum_pct_customers": 0.979,
+        "cum_pct_revenue": 0.7707
+      },
+      {
+        "cum_pct_customers": 0.989,
+        "cum_pct_revenue": 0.8405
+      },
+      {
+        "cum_pct_customers": 0.999,
+        "cum_pct_revenue": 0.9667
+      }
+    ]
+  },
+  "category_summary": {
+    "n_categories": 42,
+    "top_revenue_category": "consoles_games",
+    "top_revenue_category_amount": 220640.88,
+    "best_margin_category": "health_beauty",
+    "best_margin_pct": 60.94,
+    "worst_margin_category": "industry_commerce_and_business",
+    "worst_margin_pct": 50.63,
+    "overall_margin_pct": 55.34
+  },
+  "delay_review_regression": {
+    "n_orders": 29177,
+    "pooled_slope_per_day": -0.2024,
+    "pooled_r_squared": 0.2505,
+    "pooled_p_value": 0.0,
+    "state_demeaned_slope_per_day": -0.1875,
+    "state_demeaned_r_squared": 0.1994,
+    "state_demeaned_p_value": 0.0,
+    "state_demeaned_std_err": 0.0022,
+    "confound_variable": "customer_state",
+    "pct_difference_pooled_vs_demeaned": 8.0
+  },
+  "anova_price_by_category": {
+    "f_statistic": 269.02,
+    "p_value": 0.0,
+    "n_groups": 42,
+    "highest_avg_price_category": "consoles_games",
+    "highest_avg_price": 215.47,
+    "lowest_avg_price_category": "cds_dvds_musicals",
+    "lowest_avg_price": 24.37
+  },
+  "anova_order_value_by_payment_type": {
+    "f_statistic": 1.484,
+    "p_value": 0.21655203783911595,
+    "n_groups": 4,
+    "group_means": {
+      "boleto": 136.69,
+      "credit_card": 141.41,
+      "debit_card": 141.01,
+      "voucher": 136.89
+    }
+  },
+  "ttest_slow_states_review_score": {
+    "slow_states": [
+      "MA",
+      "PB",
+      "RN",
+      "PE",
+      "MS",
+      "BA",
+      "CE",
+      "MT",
+      "PA",
+      "SE"
+    ],
+    "slow_states_avg_review": 2.812,
+    "fast_states_avg_review": 3.978,
+    "slow_states_avg_delay_days": 4.39,
+    "fast_states_avg_delay_days": 0.68,
+    "t_statistic": -41.7,
+    "p_value": 0.0,
+    "n_slow": 3663,
+    "n_fast": 25514
+  },
+  "cohort_retention": {
+    "n_cohorts": 32,
+    "avg_month1_retention_pct": 2.57,
+    "avg_month1_retention_n_cohorts": 31
+  },
+  "at_risk_revenue": {
+    "cutoff_days": 180,
+    "dataset_end_date": "2018-08-31",
+    "n_at_risk_customers": 13491,
+    "pct_of_customers_at_risk": 72.45,
+    "at_risk_revenue": 2248631.06,
+    "pct_of_revenue_at_risk": 54.94,
+    "total_revenue": 4092609.08
+  },
+  "dataset_overview": {
+    "total_orders": 30109,
+    "delivered_orders": 29177,
+    "total_customers": 19000,
+    "total_products": 2000,
+    "total_sellers": 500,
+    "total_categories": 42,
+    "total_revenue": 4092609.08,
+    "date_range": [
+      "2016-01-01",
+      "2018-08-31"
+    ]
+  }
+}

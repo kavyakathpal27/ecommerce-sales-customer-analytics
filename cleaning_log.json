@@ -1,0 +1,76 @@
+{
+  "steps": [
+    {
+      "step": "load_raw",
+      "detail": "customers=30,229 orders=30,259 order_items=42,464 order_payments=31,966 order_reviews=29,321 products=2,000 sellers=500"
+    },
+    {
+      "step": "drop_duplicate_orders",
+      "detail": "removed 150 duplicate order_id rows (0.50% of raw orders extract)"
+    },
+    {
+      "step": "drop_duplicate_customers",
+      "detail": "removed 120 duplicate customer_id rows (0.40% of raw customers extract)"
+    },
+    {
+      "step": "parse_order_datetimes",
+      "detail": "parsed mixed ISO/US datetime formats across 5 order columns (1720 unparseable/blank values, expected for non-delivered orders' NULL delivery dates)"
+    },
+    {
+      "step": "parse_review_datetimes",
+      "detail": "parsed mixed ISO/US datetime formats across 2 review columns"
+    },
+    {
+      "step": "clean_currency_strings",
+      "detail": "stripped 'R$' currency symbols/commas from price and freight_value (0 coercion failures)"
+    },
+    {
+      "step": "drop_invalid_item_values",
+      "detail": "removed 262 order_item rows with negative price or freight_value (0.62% of raw order_items)"
+    },
+    {
+      "step": "normalize_payment_type",
+      "detail": "standardized payment_type casing to lowercase (values: ['boleto', 'credit_card', 'debit_card', 'voucher'])"
+    },
+    {
+      "step": "impute_customer_state",
+      "detail": "imputed 926 missing customer_state values (3.08% of clean customers) as 'Unknown'"
+    },
+    {
+      "step": "impute_product_category",
+      "detail": "imputed 42 missing product_category_name values (2.10% of products) as 'unknown'"
+    },
+    {
+      "step": "impute_seller_city",
+      "detail": "imputed 8 missing seller_city values (1.60% of sellers) as 'unknown'"
+    },
+    {
+      "step": "build_dim_customer",
+      "detail": "collapsed 30,109 order-scoped customer_id rows into 19,000 unique customer_unique_id rows"
+    },
+    {
+      "step": "map_orders_to_customer",
+      "detail": "mapped orders to customer_unique_id (0 orders with no matching customer_id dropped)"
+    },
+    {
+      "step": "merge_product_cost",
+      "detail": "merged synthetic product_cost_reference into dim_product (0 products missing a cost fallback filled with median)"
+    },
+    {
+      "step": "compute_item_margin",
+      "detail": "computed item_margin = price - item_cost per order line"
+    },
+    {
+      "step": "summary",
+      "detail": "30,259 raw order rows -> 30,109 clean order rows (0.50% removed as duplicate/unmapped)"
+    },
+    {
+      "step": "finalize_reviews",
+      "detail": "29,321 raw review rows -> 29,321 clean review rows linked to valid orders with parseable dates"
+    },
+    {
+      "step": "load_sqlite",
+      "detail": "loaded star schema into data\\processed\\ecommerce.db"
+    }
+  ]
+}
